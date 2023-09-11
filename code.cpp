@@ -1,6 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
+void test_function(){
+	printf("\nTest completed....");
+}
 int main(){
-	printf("Firs code running successfully!");
+	printf("\nMain code running successfully!\n");
+	test_function();
 	return 0;
 }
