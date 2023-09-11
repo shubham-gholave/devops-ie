@@ -4,7 +4,7 @@ void test_function(){
 	printf("\nTest completed....");
 }
 int main(){
-	printf("\nMain code running successfully!\n");
+	printf("\nChecking the pipeline condition..\n");
 	test_function();
 	return 0;
 }
